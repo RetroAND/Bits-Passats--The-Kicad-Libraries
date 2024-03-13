@@ -4,7 +4,7 @@
 # Contents
 
 | Library       | Part  | Description                                              |
-| :------------ | :---: | -------------------------------------------------------: |
+| :------------ | :---: | :------------------------------------------------------- |
 | cpu-6500      |  6501 | MOS first and short-lived 6501 CPU                       |
 | cpu-6500      |  6502 | The nearly-omnipresent MOS 6502 CPU                      |
 | obsolete-dram |  2186 |                                                          |
