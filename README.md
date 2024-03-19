@@ -12,6 +12,7 @@
 | cpu-6500      |  8500 | The CMOS 6502 variant for the Commodore 64 |
 | cpu-6500      |  RP2A03 | CPU/Sound Processor of the Famicom and American NES |
 | cpu-6500      |  RP2A07 | CPU/Sound Processor of the European NES |
+| obsolete-dram |  7110 | Intel 1Mbx1 magnetic bubble memory |
 | obsolete-dram |  2186 | Intel 8kx8 pseudostatic RAM |
 | obsolete-dram |  TMS1103 |  |
 | obsolete-dram |  TMS4030 |  |
