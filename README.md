@@ -13,9 +13,11 @@
 | cpu-6500      |  RP2A03 | CPU/Sound Processor of the Famicom and American NES |
 | cpu-6500      |  RP2A07 | CPU/Sound Processor of the European NES |
 | obsolete-dram |  2186 | Intel 8kx8 pseudostatic RAM |
-| obsolete-dram |  4116 | Texas Instruments' 16Kx1 dynamic RAM |
-| obsolete-dram |  4132 | Texas Instruments' 32Kx1 dynamic RAM (both packages) |
-| obsolete-dram |  4132(H) | Texas Instruments' 32Kx1 dynamic RAM (higher package) |
-| obsolete-dram |  4132(L) | Texas Instruments' 32Kx1 dynamic RAM (lower package) |
+| obsolete-dram |  TMS4116 | Texas Instruments' 16Kx1 dynamic RAM |
+| obsolete-dram |  TMS4132 | Texas Instruments' 32Kx1 dynamic RAM (both packages) |
+| obsolete-dram |  TMS4132(H) | Texas Instruments' 32Kx1 dynamic RAM (higher package) |
+| obsolete-dram |  TMS4132(L) | Texas Instruments' 32Kx1 dynamic RAM (lower package) |
 | obsolete-sram |  2114 | Intel 1024x4 static RAM |
+| obsolete-rom |  MCM68366 | Mtorola 8KB ROM |
+| obsolete-rom |  MOS 2364 | MOS 8KB ROM |
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
