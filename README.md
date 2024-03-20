@@ -1,7 +1,7 @@
 # Bits Passats: The Kicad Libraries
- Collection of libraries to develop schematics for documentation or extension of old computer systems.
+ Collection of Kicad libraries to develop schematics for documentation or extension of old computer systems.
 
-# Contents
+## Contents
 
 | Library       | Part  | Description |
 | :------------ | :---: | :------------------------------------------------------------------ |
@@ -28,3 +28,6 @@
 | obsolete-rom |  MCM68366 | Motorola 8KB ROM |
 | obsolete-rom |  MOS 2364 | MOS 8KB ROM |
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
+
+## Disclaimer
+This library is not endorsed or sponsored by Kicad
