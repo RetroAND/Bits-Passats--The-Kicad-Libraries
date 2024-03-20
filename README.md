@@ -21,6 +21,7 @@
 | obsolete-dram |  TMS4132(H) | Texas Instruments 32Kx1 dynamic RAM (higher package) |
 | obsolete-dram |  TMS4132(L) | Texas Instruments 32Kx1 dynamic RAM (lower package) |
 | obsolete-dram |  µPD4132 | NEC 32Kx1 dynamic RAM (both packages) |
+| obsolete-dram |  TMS4164 | Texas Instruments 64Kx1 dynamic RAM |
 | obsolete-sram |  2114 | Intel 1024x4 static RAM |
 | obsolete-sram |  TMS4033 |  |
 | obsolete-sram |  TMS4034 |  |
@@ -28,6 +29,27 @@
 | obsolete-rom |  MCM68366 | Motorola 8KB ROM |
 | obsolete-rom |  MOS 2364 | MOS 8KB ROM |
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
+
+## License
+Copyright (c) 2024 RetroAND
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Disclaimer
 This library is not endorsed or sponsored by Kicad
