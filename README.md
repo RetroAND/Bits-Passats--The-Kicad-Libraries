@@ -29,8 +29,15 @@
 | obsolete-rom |  MCM68366 | Motorola 8KB ROM |
 | obsolete-rom |  MOS 2364 | MOS 8KB ROM |
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
+| obsolete-video |  HD6845 |  |
+| obsolete-video |  HD46505 |  |
+| obsolete-video |  HD6835 |  |
+| obsolete-video |  MC6845 |  |
+| obsolete-video |  MOS 6545 |  |
+| obsolete-video |  R6545 |  |
+| obsolete-video |  RP2C02 | Picture Processing Unit of the Nintendo Famicom/North American NES |
 
-## License
+## MIT License
 Copyright (c) 2024 RetroAND
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
