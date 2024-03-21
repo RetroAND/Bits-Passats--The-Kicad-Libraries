@@ -36,6 +36,8 @@
 | obsolete-video |  MOS 6545 |  |
 | obsolete-video |  R6545 |  |
 | obsolete-video |  RP2C02 | Picture Processing Unit of the Nintendo Famicom/North American NES |
+| obsolete-video |  TMS9118 | Texas instruments VDP with composite video output |
+| obsolete-video |  TMS9118A | Texas instruments revised VDP with composite video output |
 
 ## MIT License
 Copyright (c) 2024 RetroAND
