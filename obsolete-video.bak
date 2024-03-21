@@ -585,11 +585,11 @@
       )
     )
   )
-  (symbol "TMS9918" (in_bom yes) (on_board yes)
+  (symbol "TMS9118" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -12.065 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TMS9918" (id 1) (at 8.255 20.32 0)
+    (property "Value" "TMS9118" (id 1) (at 8.255 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -598,13 +598,13 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "TMS9918_0_1"
+    (symbol "TMS9118_0_1"
       (rectangle (start -12.7 19.05) (end 12.7 -44.45)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "TMS9918_1_1"
+    (symbol "TMS9118_1_1"
       (pin output output_low (at 15.24 -29.21 180) (length 2.54)
         (name "~{RAS}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -767,11 +767,11 @@
       )
     )
   )
-  (symbol "TMS9918A" (in_bom yes) (on_board yes)
+  (symbol "TMS9118A" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -12.065 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TMS9918A" (id 1) (at 8.255 20.32 0)
+    (property "Value" "TMS9118A" (id 1) (at 8.255 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -780,13 +780,13 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "TMS9918A_0_1"
+    (symbol "TMS9118A_0_1"
       (rectangle (start -12.7 19.05) (end 12.7 -44.45)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "TMS9918A_1_1"
+    (symbol "TMS9118A_1_1"
       (pin output output_low (at 15.24 -29.21 180) (length 2.54)
         (name "~{RAS}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
