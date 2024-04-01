@@ -29,6 +29,9 @@
 | obsolete-rom |  MCM68366 | Motorola 8KB ROM |
 | obsolete-rom |  MOS 2364 | MOS 8KB ROM |
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
+| obsolete-rom |  TMS2708 | Texas Instruments 1KB EPROM |
+| obsolete-rom |  TMS2716 | Texas Instruments 2KB EPROM |
+| obsolete-video |  8275 | Intel CRT controller |
 | obsolete-video |  HD6845 |  |
 | obsolete-video |  HD46505 |  |
 | obsolete-video |  HD6835 |  |
