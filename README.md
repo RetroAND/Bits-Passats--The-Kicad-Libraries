@@ -31,6 +31,9 @@
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
 | obsolete-rom |  TMS2708 | Texas Instruments 1KB EPROM |
 | obsolete-rom |  TMS2716 | Texas Instruments 2KB EPROM |
+| obsolete-synthetizer |  76489 | Texas Instruments 500KHz Programmable Sound Generator |
+| obsolete-synthetizer |  76489A | Texas Instruments 4MHz Programmable Sound Generator |
+| obsolete-synthetizer |  YM2413 | Yamaha OPLL |
 | obsolete-video |  8275 | Intel CRT controller |
 | obsolete-video |  HD6845 |  |
 | obsolete-video |  HD46505 |  |
