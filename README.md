@@ -5,6 +5,8 @@
 
 | Library       | Part  | Description |
 | :------------ | :---: | :------------------------------------------------------------------ |
+| connector-sega |  Master System Cartridge Connector | Sega Master System cartridge connector for export models |
+| connector-sega |  Master System Expansion Port | Sega Master System expansion port for export models |
 | cpu-6500      |  6501 | MOS first and short-lived 6501 CPU  |
 | cpu-6500      |  6502 | The nearly-omnipresent MOS 6502 CPU |
 | cpu-6500      |  6509 | The 1MB version of the MOS 6502 CPU |
@@ -34,13 +36,13 @@
 | obsolete-synthetizer |  76489 | Texas Instruments 500KHz Programmable Sound Generator |
 | obsolete-synthetizer |  76489A | Texas Instruments 4MHz Programmable Sound Generator |
 | obsolete-synthetizer |  YM2413 | Yamaha OPLL |
-| obsolete-video |  8275 | Intel CRT controller |
-| obsolete-video |  HD6845 |  |
-| obsolete-video |  HD46505 |  |
-| obsolete-video |  HD6835 |  |
-| obsolete-video |  MC6845 |  |
-| obsolete-video |  MOS 6545 |  |
-| obsolete-video |  R6545 |  |
+| obsolete-video |  8275 | Intel CRT controller/address generator |
+| obsolete-video |  HD6845 | CRT controller/address generator |
+| obsolete-video |  HD46505 | CRT controller/address generator |
+| obsolete-video |  HD6835 | CRT controller/address generator |
+| obsolete-video |  MC6845 | CRT controller/address generator |
+| obsolete-video |  MOS 6545 | CRT controller/address generator |
+| obsolete-video |  R6545 | CRT Controller/address generator |
 | obsolete-video |  RP2C02 | Picture Processing Unit of the Nintendo Famicom/North American NES |
 | obsolete-video |  TMS9118 | Texas instruments VDP with composite video output |
 | obsolete-video |  TMS9118A | Texas instruments revised VDP with composite video output |
