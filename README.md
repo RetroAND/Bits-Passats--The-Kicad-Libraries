@@ -15,7 +15,7 @@
 | cpu-6500      |  RP2A03 | CPU/Sound Processor of the Famicom and American NES |
 | cpu-6500      |  RP2A07 | CPU/Sound Processor of the European NES |
 | custom-sega |  315-5216 | Sega Master System I/O controller |
-| obsolete-dram |  7110 | Intel 1Mbx1 magnetic bubble memory |
+| obsolete-bubble |  7110 | Intel 1Mbx1 magnetic bubble memory |
 | obsolete-dram |  2186 | Intel 8kx8 pseudostatic RAM |
 | obsolete-dram |  TMS1103 |  |
 | obsolete-dram |  TMS4030 |  |
@@ -38,6 +38,7 @@
 | obsolete-rom |  TMS2716 | Texas Instruments 2KB EPROM |
 | obsolete-synthetizer |  76489 | Texas Instruments 500KHz Programmable Sound Generator |
 | obsolete-synthetizer |  76489A | Texas Instruments 4MHz Programmable Sound Generator |
+| obsolete-synthetizer |  SAA1099 | Philips Programmable Sound Generator |
 | obsolete-synthetizer |  YM2413 | Yamaha OPLL |
 | obsolete-video |  8275 | Intel CRT controller/address generator |
 | obsolete-video |  HD6845 | CRT controller/address generator |
