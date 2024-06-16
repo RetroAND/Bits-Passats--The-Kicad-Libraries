@@ -1,6 +1,9 @@
 # Bits Passats: The Kicad Libraries
  Collection of Kicad libraries to develop schematics for documentation or extension of old computer systems.
 
+## Compatibility
+The symbols were created and tested using Kicad v6.0. Compatibility with previous or later versions is not guaranteed.
+
 ## Contents
 
 | Library       | Part  | Description |
