@@ -20,6 +20,7 @@ The symbols were created and tested using Kicad v6.0. Compatibility with previou
 | custom-sega |  315-5216 | Sega Master System I/O controller |
 | obsolete-bubble |  7110 | Intel 1Mbx1 magnetic bubble memory |
 | obsolete-dram |  2186 | Intel 8kx8 pseudostatic RAM |
+| obsolete-dram |  MB8818 | 5v 16Kx1 dynamic RAM |
 | obsolete-dram |  TMS1103 |  |
 | obsolete-dram |  TMS4030 |  |
 | obsolete-dram |  TMS4116 | Texas Instruments 16Kx1 dynamic RAM |
@@ -31,6 +32,7 @@ The symbols were created and tested using Kicad v6.0. Compatibility with previou
 | obsolete-dram |  µPD4132 | NEC 32Kx1 dynamic RAM (both packages) |
 | obsolete-dram |  TMS4164 | Texas Instruments 64Kx1 dynamic RAM |
 | obsolete-sram |  2114 | Intel 1024x4 static RAM |
+| obsolete-sram |  TMM2009-A | 1024x8 static RAM |
 | obsolete-sram |  TMS4033 |  |
 | obsolete-sram |  TMS4034 |  |
 | obsolete-sram |  TMS4035 |  |
@@ -40,8 +42,8 @@ The symbols were created and tested using Kicad v6.0. Compatibility with previou
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
 | obsolete-rom |  TMS2708 | Texas Instruments 1KB EPROM |
 | obsolete-rom |  TMS2716 | Texas Instruments 2KB EPROM |
-| obsolete-synthetizer |  76489 | Texas Instruments 500KHz Programmable Sound Generator |
-| obsolete-synthetizer |  76489A | Texas Instruments 4MHz Programmable Sound Generator |
+| obsolete-synthetizer |  76489 | Texas Instruments 4MHz Programmable Sound Generator |
+| obsolete-synthetizer |  76489A | Texas Instruments 500KHz Programmable Sound Generator |
 | obsolete-synthetizer |  AY-3-8910 | General Instruments Programmable Sound Generator with two I/O ports |
 | obsolete-synthetizer |  SAA1099 | Philips Programmable Sound Generator |
 | obsolete-synthetizer |  YM2413 | Yamaha OPLL |
