@@ -35,12 +35,14 @@ The symbols were created and tested using Kicad v6.0. Compatibility with previou
 | obsolete-sram |  TMS4034 |  |
 | obsolete-sram |  TMS4035 |  |
 | obsolete-rom |  MCM68366 | Motorola 8KB ROM |
+| obsolete-rom |  MCM68766 | Motorola 8KB EPROM |
 | obsolete-rom |  MOS 2364 | MOS 8KB ROM |
 | obsolete-rom |  MK36000 | Mostek 8KB ROM |
 | obsolete-rom |  TMS2708 | Texas Instruments 1KB EPROM |
 | obsolete-rom |  TMS2716 | Texas Instruments 2KB EPROM |
 | obsolete-synthetizer |  76489 | Texas Instruments 500KHz Programmable Sound Generator |
 | obsolete-synthetizer |  76489A | Texas Instruments 4MHz Programmable Sound Generator |
+| obsolete-synthetizer |  AY-3-8910 | General Instruments Programmable Sound Generator with two I/O ports |
 | obsolete-synthetizer |  SAA1099 | Philips Programmable Sound Generator |
 | obsolete-synthetizer |  YM2413 | Yamaha OPLL |
 | obsolete-video |  8275 | Intel CRT controller/address generator |
