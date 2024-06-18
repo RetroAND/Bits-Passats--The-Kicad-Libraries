@@ -45,6 +45,7 @@ The symbols were created and tested using Kicad v6.0. Compatibility with previou
 | obsolete-synthetizer |  76489 | Texas Instruments 4MHz Programmable Sound Generator |
 | obsolete-synthetizer |  76489A | Texas Instruments 500KHz Programmable Sound Generator |
 | obsolete-synthetizer |  AY-3-8910 | General Instruments Programmable Sound Generator with two I/O ports |
+| obsolete-synthetizer |  AY-3-8912 | General Instruments Programmable Sound Generator with a single I/O port |
 | obsolete-synthetizer |  SAA1099 | Philips Programmable Sound Generator |
 | obsolete-synthetizer |  YM2413 | Yamaha OPLL |
 | obsolete-video |  8275 | Intel CRT controller/address generator |
